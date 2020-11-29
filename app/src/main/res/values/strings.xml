@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MomoAuto</string>
+    <string name="btnCreate">Send me money bitch</string>
+    <string name="hint_amount">Enter the amount you want to get</string>
+    <string name="hint_phone">Leave it empty if you want to use your own phone number</string>
+</resources>
